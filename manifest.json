@@ -1,0 +1,26 @@
+{
+	"author": "Done Joseph",
+	"name": "Menja Games",
+	"short_name": "Menja",
+	"description": "Hi l'm Done Joseph. This is my personal website. Visit my website for information and detailes.",
+	"orientation": "portrait",
+	"start_url": "/",
+	"scope": "/",
+	"display": "standalone",
+	"background_color": "#fff",
+	"theme_color": "#2c3f51",
+	"icons": [
+		{
+			"src": "/ogimage.jpeg",
+			"sizes": "48x48 72x72 96x96 128x128 192x192 256x256 512x512",
+			"type": "image/jpeg"
+		}
+	],
+	"manifest_version": 3,
+	"version": "0.2",
+	"applications": {
+		"gecko": {
+			"id": "donejoseph95@gmail.com"
+		}
+	}
+}
